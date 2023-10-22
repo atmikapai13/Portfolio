@@ -52,11 +52,11 @@ Evaluated Price Elasticity of Demand (PED) for BART transit by exploiting natura
 
 Deterimined Income Elasticity of Demand for BART transit across counties and established nature and perception of transit service across Bay Area counties. Analysis was conducted in **Python** .
 
-### [Impact of OPT-STEM Migration](https://drive.google.com/file/d/118bfGKnELZRF4oGHpZtPU3rMLqZk8e_d/view)**
+### [Impact of OPT-STEM Migration](https://drive.google.com/file/d/118bfGKnELZRF4oGHpZtPU3rMLqZk8e_d/view)
 
 Independently researched and authored paper on the impacts of selective migration policy on student migration and patenting in the US by employing difference-in-difference methodology in **STATA** and **R**.
 
-### [Cool Climate Networks](https://coolclimate.berkeley.edu/)**
+### [Cool Climate Networks](https://coolclimate.berkeley.edu/)
 
 Created dashboards on transportation and climate change for climate action portal, EcoDataLab, using **Python** for data synthesis and **Tableau** for data visualizations.
 
