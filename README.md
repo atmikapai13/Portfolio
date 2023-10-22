@@ -9,13 +9,14 @@ B.A. Data Science, B.A. Economics | University of California, Berkeley (_May 202
 
 ## Work Experience
 ### CSAA Insurance, an AAA Insurer
-<p style="margin-left: 25px;">
-**Product Analyst (_July 2022 - Present_)**
-- Created a thoughtful 3-year financial plan using analytical techniques and knowledge of future trends, market conditions, and initiatives to proactively communicate results, resulting in a consistent understanding across the organization of plan strategy and results against plan
-- Formulated optimal territory factor selections for AZ Property rate change considering competitive analysis, loss ratio experience, and new business performance
-- Quantified impact of payment plan changes from 1 to 2-month down pay by applying difference-in-difference methodology and using SQL, Snowflake data tools; identified largest segments affected and aligned with growth and profitability division goals
-- Analyzed impacts of four branch closures in AZ and UT using **SAS** and **SQL** and quantified loss in direct written premium
-- Promoted to Product Analyst II in April 2023
+      <p style="margin-left: 25px;">
+      **Product Analyst (_July 2022 - Present_)**
+      - Created a thoughtful 3-year financial plan using analytical techniques and knowledge of future trends, market conditions, and initiatives to proactively communicate results, resulting in a consistent understanding across the organization of plan strategy and results against plan
+      - Formulated optimal territory factor selections for AZ Property rate change considering competitive analysis, loss ratio experience, and new business performance
+      - Quantified impact of payment plan changes from 1 to 2-month down pay by applying difference-in-difference methodology and using SQL, Snowflake data tools; identified largest segments affected and aligned with growth and profitability division goals
+      - Analyzed impacts of four branch closures in AZ and UT using **SAS** and **SQL** and quantified loss in direct written premium
+      - Promoted to Product Analyst II in April 2023
+      </p>
 
 **Product Management Intern (_Jun - Aug 2021_)**
 
@@ -25,7 +26,7 @@ Developed business proposal for electric vehicle auto coverage based on Porterâ€
 
 
 Evaluated incumbent firmâ€™s competitive position in Maryland by conducting a rate comparison using Python, SAS and Excel; advanced project by identifying less profitable offices and setting up SMART goals to achieve 10% sales increase
-</p>
+
 
 **Intern @ Tata Consultancy Services, Mumbai, India (_May - Jun 2019_)**
 
