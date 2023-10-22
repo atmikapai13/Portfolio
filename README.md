@@ -3,7 +3,8 @@
 * * * *
 
 ## Education
-B.A. Data Science, B.A. Economics | University of California, Berkeley (_May 2022_)		
+**University of California, Berkeley (_May 2022_)**
+B.A. Data Science and Economics
 
 * * * *
 
