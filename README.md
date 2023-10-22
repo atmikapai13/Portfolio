@@ -3,7 +3,9 @@
 #### Technical Skills: SAS, SQL, Snowflake, Python, Microsoft Suite (Excel, Power BI, PPT)
 
 ## Education
-B.A. Data Science, B.A. Economics | University of California, Berkeley (_May 2022_)					       		
+B.A. Data Science, B.A. Economics | University of California, Berkeley (_May 2022_)		
+
+* * *
 
 ## Work Experience
 ### CSAA Insurance, an AAA Insurer
@@ -25,6 +27,8 @@ B.A. Data Science, B.A. Economics | University of California, Berkeley (_May 202
 
 **Intern @ GetClarity Fintech Services, Mumbai, India (_May - Jun 2018_)**
 - Investigated correlation between text messages and propensity to loan default by data cleaning and conducting regression analysis on text messages of potential and current loans borrowers in Python (RCT experiment)
+
+* * *
 
 ## Projects
 **Analysis of Bay Area Rapid Transit (BART) Ridership and Distance-Based Fare Model**
