@@ -9,12 +9,12 @@ B.A. Data Science, B.A. Economics | University of California, Berkeley (_May 202
 
 ## Work Experience
 ### CSAA Insurance, an AAA Insurer
-      **Product Analyst (_July 2022 - Present_)**
-      - Created a thoughtful 3-year financial plan using analytical techniques and knowledge of future trends, market conditions, and initiatives to proactively communicate results, resulting in a consistent understanding across the organization of plan strategy and results against plan
-      - Formulated optimal territory factor selections for AZ Property rate change considering competitive analysis, loss ratio experience, and new business performance
-      - Quantified impact of payment plan changes from 1 to 2-month down pay by applying difference-in-difference methodology and using SQL, Snowflake data tools; identified largest segments affected and aligned with growth and profitability division goals
-      - Analyzed impacts of four branch closures in AZ and UT using **SAS** and **SQL** and quantified loss in direct written premium
-      - Promoted to Product Analyst II in April 2023
+**Product Analyst (_July 2022 - Present_)**
+- Created a thoughtful 3-year financial plan using analytical techniques and knowledge of future trends, market conditions, and initiatives to proactively communicate results, resulting in a consistent understanding across the organization of plan strategy and results against plan
+- Formulated optimal territory factor selections for AZ Property rate change considering competitive analysis, loss ratio experience, and new business performance
+- Quantified impact of payment plan changes from 1 to 2-month down pay by applying difference-in-difference methodology and using SQL, Snowflake data tools; identified largest segments affected and aligned with growth and profitability division goals
+- Analyzed impacts of four branch closures in AZ and UT using **SAS** and **SQL** and quantified loss in direct written premium
+- Promoted to Product Analyst II in April 2023
 
 **Product Management Intern (_Jun - Aug 2021_)**
 
@@ -22,17 +22,13 @@ Developed business proposal for electric vehicle auto coverage based on Porterâ€
 
 **Product Analyst Intern Intern (_May - Jul 2020_)**
 
-
 Evaluated incumbent firmâ€™s competitive position in Maryland by conducting a rate comparison using Python, SAS and Excel; advanced project by identifying less profitable offices and setting up SMART goals to achieve 10% sales increase
 
-
 **Intern @ Tata Consultancy Services, Mumbai, India (_May - Jun 2019_)**
-
 
 Employed Natural Language Toolkit (NLTK) for data cleaning and assigned attributes to key factors around which NLP application would be built
 
 **Intern @ GetClarity Fintech Services, Mumbai, India (_May - Jun 2018_)**
-
 
 Investigated correlation between text messages and propensity to loan default by data cleaning and conducting regression analysis on text messages of potential and current loans borrowers in Python (RCT experiment)
 
