@@ -2,9 +2,9 @@
 
 #### Technical Skills: SAS, SQL, Snowflake, Python, Microsoft Suite (Excel, Power BI, PPT)
 
-
 ## Education
-- B.A. Data Science and Economics (Double Major) | University of California, Berkeley (_May 2022_)
+### University of California, Berkeley (_May 2022_)
+B.A. Data Science and B.A. Economics 
 
 ## Work Experience
 
