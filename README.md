@@ -4,6 +4,12 @@
 #### University of California, Berkeley (_May 2022_)
 B.A. Data Science and B.A. Economics 
 
+#### Technical Skills
+SAS, SQL, Snowflake, Python, Microsoft Suite (Excel, Power BI, PPT)
+
+#### Relevant Coursework 
+Econometrics
+
 ## Work Experience
 **Product Analyst @ CSAA Insurance, an AAA Insurer (_July 2022 - Present_)**
 - Created a thoughtful 3-year financial plan using analytical techniques and knowledge of future trends, market conditions, and initiatives to proactively communicate results, resulting in a consistent understanding across the organization of plan strategy and results against plan
@@ -35,11 +41,7 @@ Independently researched and authored paper on the impacts of selective migratio
 
 Created dashboards on transportation and climate change for climate action portal, EcoDataLab, using **Python** for data synthesis and **Tableau** for data visualizations.
 
-#### Technical Skills
-SAS, SQL, Snowflake, Python, Microsoft Suite (Excel, Power BI, PPT)
 
-#### Relevant Coursework
-Econometrics
 
 
 
