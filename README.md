@@ -4,10 +4,10 @@
 #### University of California, Berkeley (_May 2022_)
 B.A. Data Science and B.A. Economics 
 
-#### Technical Skills
+##### Technical Skills
 SAS, SQL, Snowflake, Python, Microsoft Suite (Excel, Power BI, PPT)
 
-#### Relevant Coursework 
+##### Relevant Coursework 
 Econometrics
 
 ## Work Experience
