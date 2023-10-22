@@ -17,9 +17,9 @@ B.A. Data Science, B.A. Economics | University of California, Berkeley (_May 202
 - Promoted to Product Analyst II in April 2023
 
 **Product Management Intern (_Jun - Aug 2021_)**
-
+<p>
 Developed business proposal for electric vehicle auto coverage based on Porter’s 5 Forces for industry analysis and Growth Share Matrix for competitive analysis and presented findings to leadership
-
+<p>
 
 **Product Analyst Intern Intern (_May - Jul 2020_)**
 
