@@ -1,11 +1,15 @@
 # Data Scientist
 
-#### Technical Skills: SAS, SQL, Snowflake, Python, Microsoft Suite (Excel, Power BI, PPT)
+#### Technical Skills: SAS, SQL, Snowflake, Python, 
+####                   Microsoft Suite (Excel, Power BI, PPT)
+
 
 ## Education
-- B.A. Data Science and Economics (Double Major) | University of California, Berkeley (_May 2022_)								       		
+- B.A. Data Science and Economics (Double Major) | University of California, Berkeley (_May 2022_)
+               		
 
 ## Work Experience
+
 
 **Product Analyst @ CSAA Insurance, an AAA Insurer (_July 2022 - Present_)**
 - Created a thoughtful 3-year financial plan using analytical techniques and knowledge of future trends, market conditions, and initiatives to proactively communicate results, resulting in a consistent understanding across the organization of plan strategy and results against plan
@@ -29,14 +33,11 @@ Dissected BART Ridership data from 1998 to Sep 2023, identified most popular sta
 - Evaluated Price Elasticity of Demand (PED) for BART transit by exploiting natural experiment of 50% BART fare discount in Sep 2022; identified entry/exit routes with PED > 1 and formulated price reductions to engage ridership for those routes.
 - Deterimined Income Elasticity of Demand for BART transit across counties and established nature and perception of transit service across Bay Area counties. Analysis was conducted in **Python** .
 
-### Impact of OPT-STEM Migration
-[Thesis](https://drive.google.com/file/d/118bfGKnELZRF4oGHpZtPU3rMLqZk8e_d/view)
+### [Impact of OPT-STEM Migration](https://drive.google.com/file/d/118bfGKnELZRF4oGHpZtPU3rMLqZk8e_d/view)
 
 Independently researched and authored paper on the impacts of selective migration policy on student migration and patenting in the US by employing difference-in-difference methodology in **STATA** and **R**.
 
-### Cool Climate Networks
-
-[Cool Climate Networks](https://coolclimate.berkeley.edu/)
+### [Cool Climate Networks](https://coolclimate.berkeley.edu/)
 
 Created dashboards on transportation and climate change for climate action portal, EcoDataLab, using **Python** for data synthesis and **Tableau** for data visualizations.
 
