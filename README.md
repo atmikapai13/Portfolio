@@ -1,10 +1,8 @@
-# atmikapai.github.io-portfolio
-The data analytics and technology-related projects I have worked on over the course of years
-
 # Data Scientist
 
 ### Education
-BA in Data Science and BA in Economics
+University of California, Berkeley
+BA in Data Science and Economics (Double Major)
 
 ### Work Experience
 Insurnace Product Analyst @ CSAA Insurance, an AAA Insurer
