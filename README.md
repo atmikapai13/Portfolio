@@ -3,7 +3,7 @@
 #### Technical Skills: SAS, SQL, Snowflake, Python, Microsoft Suite (Excel, Power BI, PPT)
 
 ## Education
-- B.A. Data Science, B.A. Economics | University of California, Berkeley (_May 2022_)					       		
+B.A. Data Science, B.A. Economics | University of California, Berkeley (_May 2022_)					       		
 
 ## Work Experience
 **Product Analyst @ CSAA Insurance, an AAA Insurer (_July 2022 - Present_)**
