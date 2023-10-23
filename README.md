@@ -40,23 +40,23 @@ Investigated correlation between text messages and propensity to loan default by
 ## Projects
 ### Analysis of Bay Area Rapid Transit (BART) Ridership and Distance-Based Fare Model
 
-![](/assets/bart_image.jpeg)
-
-[A Journey Through BART Ridership Trends](https://medium.com/@atmikapai/a-journey-through-bart-ridership-trends-5cfdd0819c0c)
+**A Journey Through BART Ridership Trends**
+_[(Link)]_(https://medium.com/@atmikapai/a-journey-through-bart-ridership-trends-5cfdd0819c0c)
 
 Dissected BART Ridership data from 1998 to Sep 2023, identified most popular stations pre and post-pandemic, and evaluated post-pandemic ridership recovery across counties using **Python**
 
-[BART’s Distance-Based Fare Model: Price and Income Elasticity of Demand](https://medium.com/@atmikapai/understanding-barts-distance-based-fare-model-d78751ca8454)
+**BART’s Distance-Based Fare Model: Price and Income Elasticity of Demand**
+_[(Link)]_(https://medium.com/@atmikapai/understanding-barts-distance-based-fare-model-d78751ca8454)
 
 Evaluated Price Elasticity of Demand (PED) for BART transit by exploiting natural experiment of 50% BART fare discount in Sep 2022; identified entry/exit routes with PED > 1 and formulated price reductions to engage ridership for those routes.
 
 Deterimined Income Elasticity of Demand for BART transit across counties and established nature and perception of transit service across Bay Area counties. Analysis was conducted in **Python** .
 
-### [Impact of OPT-STEM Migration](https://drive.google.com/file/d/118bfGKnELZRF4oGHpZtPU3rMLqZk8e_d/view)
+### Impact of OPT-STEM Migration _[(Link)]_(https://drive.google.com/file/d/118bfGKnELZRF4oGHpZtPU3rMLqZk8e_d/view)
 
 Independently researched and authored paper on the impacts of selective migration policy on student migration and patenting in the US by employing difference-in-difference methodology in **STATA** and **R**.
 
-### [Cool Climate Networks](https://coolclimate.berkeley.edu/)
+### Cool Climate Networks _[(Link)]_(https://coolclimate.berkeley.edu/)
 
 Created dashboards on transportation and climate change for climate action portal, EcoDataLab, using **Python** for data synthesis and **Tableau** for data visualizations.
 
