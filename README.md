@@ -40,6 +40,8 @@ Investigated correlation between text messages and propensity to loan default by
 ## Projects
 ### Analysis of Bay Area Rapid Transit (BART) Ridership and Distance-Based Fare Model
 
+![BART Analysis](/assets/Bay-Area-Rapid-Transit-logo.png)
+
 **A Journey Through BART Ridership Trends**
 [_(Link)_](https://medium.com/@atmikapai/a-journey-through-bart-ridership-trends-5cfdd0819c0c)
 
