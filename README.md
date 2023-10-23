@@ -27,13 +27,13 @@ Developed business proposal for electric vehicle auto coverage based on Porterâ€
 
 Evaluated incumbent firmâ€™s competitive position in Maryland by conducting a rate comparison using Python, SAS and Excel; advanced project by identifying less profitable offices and setting up SMART goals to achieve 10% sales increase
 
-### Intern @ Tata Consultancy Services, Mumbai, India (_May - Jun 2019_)
+### Tata Consultancy Services, Mumbai, India (_May - Jun 2019_)
 
-Employed Natural Language Toolkit (NLTK) for data cleaning and assigned attributes to key factors around which NLP application would be built
+Employed Natural Language Toolkit (NLTK) for data cleaning and assigned attributes to key factors around which NLP application would be built as an intern 
 
-### Intern @ GetClarity Fintech Services, Mumbai, India (_May - Jun 2018_)
+### GetClarity Fintech Services, Mumbai, India (_May - Jun 2018_)
 
-Investigated correlation between text messages and propensity to loan default by data cleaning and conducting regression analysis on text messages of potential and current loans borrowers in Python (RCT experiment)
+Investigated correlation between text messages and propensity to loan default by data cleaning and conducting regression analysis on text messages of potential and current loans borrowers in Python (RCT experiment) as an intern
 
 * * * *
 
