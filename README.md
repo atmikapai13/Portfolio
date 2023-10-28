@@ -25,7 +25,8 @@ Developed business proposal for electric vehicle auto coverage based on Porterâ€
 
 **Product Analyst Intern Intern (_May - Jul 2020_)**
 
-Evaluated incumbent firmâ€™s competitive position in Maryland by conducting a rate comparison using Python, SAS and Excel; advanced project by identifying less profitable offices and setting up SMART goals to achieve 10% sales increase
+- Evaluated CSAA's competitive position in Maryland by conducting competitor premium analysis using SQL and Excel
+- Assessed cross elasticity of demand of Property rate change on Auto product retention
 
 ### Tata Consultancy Services, Mumbai, India (_May - Jun 2019_)
 
@@ -52,6 +53,10 @@ Dissected BART Ridership data from 1998 to Sep 2023, identified most popular sta
 Evaluated Price Elasticity of Demand (PED) for BART transit by exploiting natural experiment of 50% BART fare discount in Sep 2022; identified entry/exit routes with PED > 1 and formulated price reductions to engage ridership for those routes.
 
 Deterimined Income Elasticity of Demand for BART transit across counties and established nature and perception of transit service across Bay Area counties. Analysis was conducted in **Python** .
+
+**Forecasting BART's Ridership Trends using SARIMA and Prophet** [_(Link)_](https://medium.com/@atmikapai/forecasting-bart-ridership-sarmix-vs-prophet-8fdfae5f24bc)
+
+Evaluated model performance on train and test set using Seasonal Autoregression Integrated Moving Average (SARIMA) and Prophet regression models in **Python** and forecasted BART monthly weekday ridership till 2027   
 
 ### Impact of OPT-STEM Migration [_(Link)_](https://drive.google.com/file/d/118bfGKnELZRF4oGHpZtPU3rMLqZk8e_d/view)
 
