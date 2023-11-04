@@ -64,7 +64,7 @@ Independently researched and authored paper on the impacts of selective migratio
 
 ### Cool Climate Networks [_(Link)_](https://coolclimate.berkeley.edu/)
 
-![Cool Climate Networks](/assets/CNN-logo.png)
+![Cool Climate Networks](/assets/CCN-logo.png)
 
 Created dashboards on transportation and climate change for climate action portal, EcoDataLab, using **Python** for data synthesis and **Tableau** for data visualizations.
 
