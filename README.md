@@ -39,9 +39,9 @@ Investigated correlation between text messages and propensity to loan default by
 * * * *
 
 ## Projects
-### Analysis of Bay Area Rapid Transit (BART) Ridership and Distance-Based Fare Model
 
 ![BART Analysis](/assets/Bay-Area-Rapid-Transit-logo.png)
+### Analysis of Bay Area Rapid Transit (BART) Ridership and Distance-Based Fare Model
 
 **1. A Journey Through BART Ridership Trends**
 [_(Link)_](https://medium.com/@atmikapai/a-journey-through-bart-ridership-trends-5cfdd0819c0c)
@@ -62,9 +62,9 @@ Evaluated model performance on train and test set using Seasonal Autoregression 
 
 Independently researched and authored paper on the impacts of selective migration policy on student migration and patenting in the US by employing difference-in-difference methodology in **STATA** and **R**.
 
-### Cool Climate Networks [_(Link)_](https://coolclimate.berkeley.edu/)
-
 ![Cool Climate Networks](/assets/CCN-logo.png)
+
+### Cool Climate Networks [_(Link)_](https://coolclimate.berkeley.edu/)
 
 Created dashboards on transportation and climate change for climate action portal, EcoDataLab, using **Python** for data synthesis and **Tableau** for data visualizations.
 
