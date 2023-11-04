@@ -70,7 +70,7 @@ Created dashboards on transportation and climate change for climate action porta
 
 Recreated 2048 game, a single-player computer game originally designed by Gabriele Cirulli in **Java**
 
-###  Version-control system [_(Link)_](https://github.com/atmikapai13/CS61BL-Data-Structures/tree/main/Proj2%20-%20Gitlet)
+###  Version-Control System [_(Link)_](https://github.com/atmikapai13/CS61BL-Data-Structures/tree/main/Proj2%20-%20Gitlet)
 Implementing a version-control system that mimics some of the basic features of the popular system Git. Features supported by my version-control system in **Java**
 - Saving the contents of entire directories of files, similar to comitting contents/commits
 - Restoring a version of one or more files or entire commits
