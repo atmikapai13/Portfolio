@@ -56,8 +56,6 @@ Deterimined Income Elasticity of Demand for BART transit across counties and est
 
 **3. Forecasting BART's Ridership Trends using SARIMA and Prophet** [_(Link)_](https://medium.com/@atmikapai/forecasting-bart-ridership-sarmix-vs-prophet-8fdfae5f24bc)
 
-![BART Analysis](/assets/bart_forecast.png)
-
 Evaluated model performance on train and test set using Seasonal Autoregression Integrated Moving Average (SARIMA) and Prophet regression models in **Python** and forecasted BART monthly weekday ridership till 2027   
 
 ### Impact of OPT-STEM Migration [_(Link)_](https://drive.google.com/file/d/118bfGKnELZRF4oGHpZtPU3rMLqZk8e_d/view)
