@@ -67,7 +67,7 @@ Independently researched and authored paper on the impacts of selective migratio
 Created dashboards on transportation and climate change for climate action portal, EcoDataLab, using **Python** for data synthesis and **Tableau** for data visualizations.
 
 ###  Version-Control System [_(Link)_](https://github.com/atmikapai13/CS61BL-Data-Structures/tree/main/Proj2%20-%20Gitlet)
-Implementing a version-control system that mimics some of the basic features of the popular system Git. Features supported by my version-control system in **Java**
+Implementing a version-control system, mimicking basic features of the popular system Git, in **Java** as part of CS61B: Data Structures coursework. Features supported by my version-control system: 
 - Saving the contents of entire directories of files, similar to comitting contents/commits
 - Restoring a version of one or more files or entire commits
 - Viewing the history of your backups
@@ -76,15 +76,15 @@ Implementing a version-control system that mimics some of the basic features of 
 
 ### Recreating 2048 Game [_(Link)_](https://github.com/atmikapai13/CS61BL-Data-Structures/tree/main/Proj0%20-%20Recreating%202048)
 
-Recreated 2048 game, a single-player computer game originally designed by Gabriele Cirulli in **Java**
+Recreated 2048 game, a single-player computer game originally designed by Gabriele Cirulli in **Java** as part of CS61B: Data Structures coursework
 
 ### 2D Game Engine [_(Link)_](https://github.com/atmikapai13/CS61BL-Data-Structures/tree/main/Proj3%20-%20BYOW)
 
-Game engine that generates explorable 2D tile-based worlds in **Java**
+Game engine that generates explorable 2D tile-based worlds in **Java** as part of CS61B: Data Structures coursework
 
 ### Tower Defense Game [_(Link)_](https://github.com/atmikapai13/CS61A-Intro-to-Computer-Programs/tree/main/Proj3%20-%20Ants%20Vs.%20Zombies)
 
-Created a tower defense game, named called Ants Vs. Zombies using an object-oriented programming paradigm in **Java**
+Created a tower defense game, named called Ants Vs. Zombies using an object-oriented programming paradigm in **Java** as part of CS61A: Introduction to programming and computer science coursework
 
 
 
