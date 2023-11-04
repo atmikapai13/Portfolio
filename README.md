@@ -66,10 +66,6 @@ Independently researched and authored paper on the impacts of selective migratio
 
 Created dashboards on transportation and climate change for climate action portal, EcoDataLab, using **Python** for data synthesis and **Tableau** for data visualizations.
 
-### Recreating 2048 Game [_(Link)_](https://github.com/atmikapai13/CS61BL-Data-Structures/tree/main/Proj0%20-%20Recreating%202048)
-
-Recreated 2048 game, a single-player computer game originally designed by Gabriele Cirulli in **Java**
-
 ###  Version-Control System [_(Link)_](https://github.com/atmikapai13/CS61BL-Data-Structures/tree/main/Proj2%20-%20Gitlet)
 Implementing a version-control system that mimics some of the basic features of the popular system Git. Features supported by my version-control system in **Java**
 - Saving the contents of entire directories of files, similar to comitting contents/commits
@@ -77,6 +73,10 @@ Implementing a version-control system that mimics some of the basic features of 
 - Viewing the history of your backups
 - Maintaining related sequences of commits, called branches.
 - Merging changes made in one branch into another.
+
+### Recreating 2048 Game [_(Link)_](https://github.com/atmikapai13/CS61BL-Data-Structures/tree/main/Proj0%20-%20Recreating%202048)
+
+Recreated 2048 game, a single-player computer game originally designed by Gabriele Cirulli in **Java**
 
 ### 2D Game Engine [_(Link)_](https://github.com/atmikapai13/CS61BL-Data-Structures/tree/main/Proj3%20-%20BYOW)
 
