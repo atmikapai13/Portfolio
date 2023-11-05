@@ -60,7 +60,7 @@ Evaluated model performance on train and test set using Seasonal Autoregression 
 
 ### Impact of OPT-STEM Migration [_(Link)_](https://drive.google.com/file/d/118bfGKnELZRF4oGHpZtPU3rMLqZk8e_d/view)
 
-Independently researched and authored paper on the impacts of selective migration policy on student migration and patenting in the US by employing difference-in-difference methodology in **STATA** and **R**.
+Independently researched and authored paper on the impacts of selective migration policy on student migration and patenting in the US by employing difference-in-difference methodology using **STATA** and **R**.
 
 
 ![Cool Climate Networks](/assets/CCN-logo.png)
