@@ -40,7 +40,6 @@ Investigated correlation between text messages and propensity to loan default by
 
 ## Projects
 
-![BART Analysis](/assets/Bay-Area-Rapid-Transit-logo.png)
 ### Analysis of Bay Area Rapid Transit (BART) Ridership and Distance-Based Fare Model
 
 **1. A Journey Through BART Ridership Trends**
@@ -62,8 +61,9 @@ Evaluated model performance on train and test set using Seasonal Autoregression 
 
 Independently researched and authored paper on the impacts of selective migration policy on student migration and patenting in the US by employing difference-in-difference methodology using **STATA** and **R**.
 
+### Gaussian Classifier for Handwritten Digit Recognition  [_(Link)_](https://github.com/atmikapai13/CS189/blob/main/cs189%20hw0.py)
 
-![Cool Climate Networks](/assets/CCN-logo.png)
+Classified handwritten digits from M.S. dataset into number counterparts using Linear Discriminant in **Python** and achieved an accuracy of 81.7%
 
 ### Cool Climate Networks [_(Link)_](https://coolclimate.berkeley.edu/)
 
