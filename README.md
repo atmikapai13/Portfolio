@@ -57,6 +57,10 @@ Deterimined Income Elasticity of Demand for BART transit across counties and est
 
 Evaluated model performance on train and test set using Seasonal Autoregression Integrated Moving Average (SARIMA) and Prophet regression models in **Python** and forecasted BART monthly weekday ridership till 2027   
 
+**4. SQL Database of BART ridership and GTFS datat** [_(Link)_](https://medium.com/@atmikapai/sql-database-for-bart-ridership-and-scheduling-data-8fadb40efc51)
+
+Created novel database on BART ridership from 2001 to 2023 and General Specification Transit Feed (GTFS) scheduling data for urban data enthusiasts to be able to conduct temporal and geospatial analysis from one database
+
 ### Impact of OPT-STEM Migration [_(Link)_](https://drive.google.com/file/d/118bfGKnELZRF4oGHpZtPU3rMLqZk8e_d/view)
 
 Independently researched and authored paper on the impacts of selective migration policy on student migration and patenting in the US by employing difference-in-difference methodology using **STATA** and **R**.
