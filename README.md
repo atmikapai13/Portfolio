@@ -10,31 +10,44 @@ B.A. Data Science and Economics
 
 * * * *
 
-## Work Experience
+## Professional Experience
 ### CSAA Insurance, an AAA Insurer
 **Product Analyst (_July 2022 - Present_)**
-- Created a thoughtful 3-year financial plan using analytical techniques and knowledge of future trends, market conditions, and initiatives to proactively communicate results, resulting in a consistent understanding across the organization of plan strategy and results against plan
-- Formulated optimal territory factor selections for AZ Property rate change considering competitive analysis, loss ratio experience, and new business performance
-- Quantified impact of payment plan changes from 1 to 2-month down pay by applying difference-in-difference methodology and using SQL, Snowflake data tools; identified largest segments affected and aligned with growth and profitability division goals
-- Analyzed impacts of four branch closures in AZ and UT using **SAS** and **SQL** and quantified loss in direct written premium
-- Promoted to Product Analyst II in April 2023
+- Developed Arizona’s 3-year financial plan based on microeconomic trends, competitor activity, and historical KPI trends in **Oracle Hyperion Essbase**
+- Collaborated closely with actuaries and insurance agents to administer two pricing refreshes changes for Arizona Auto and Property
+- Optimized territory factors by zip code to improve risk segmentation using **InsurQuote competitive intelligence tool**, **SAS,** and **Snowflake**
+- Fostered insurance agents’ understanding of low-risk, high-profit segments for successful implementation of rate changes
+- Unified logic of two disparate internal data sources (traditional and online point-of-sales) to achieve consistent reporting 
+- Devised monthly reports on consumer interaction in online point-of-sales with new products launches and shared with senior PMs and external partners
+- Quantified impact of payment plan changes on new business insurance KPIs and presented findings to leadership, integrating profitability narrative and insights into riskier segment dynamics
+- Promoted in April 2023
 
 **Product Management Intern (_Jun - Aug 2021_)**
 
-Developed business proposal for electric vehicle auto coverage based on Porter’s 5 Forces for industry analysis and Growth Share Matrix for competitive analysis and presented findings to leadership
+- Researched prospects of electric vehicle coverage by analyzing industry trends, competitor strategies, and government regulations
+- Crafted short and long-term objectives for new EV insurance product line, aligning with company’s 2030 vision
+- Presented elaborate business proposal to leadership, underscoring strategic foresight and innovative solutions
 
 **Product Analyst Intern Intern (_May - Jul 2020_)**
 
-- Evaluated CSAA's competitive position in Maryland by conducting competitor premium analysis using SQL and Excel
-- Assessed cross elasticity of demand of Property rate change on Auto product retention
+- Conducted premium analysis to evaluate company's competitive position in Maryland among 53 companies and six market profiles using DOI Rate Survey and **SAS** tools
+- Delved deeper into competitiveness and correlations with CSAA’s market share by zip code to uncover growth opportunities
+- Assessed Auto and Property product dynamics by deriving cross elasticity of demand of Property rate change on Auto product retention
+
+### Microfinance at Berkeley (_August 2019 - May 2020_)**
+- Led a team of four associates to accelerate growth for two local small businesses in retail and service industry 
+- Designed an e-Commerce website prototype using Figma for retail business
+- Developed detailed financial and marketing strategy to transform cafe’s patio space into an event venue 
+- Navigated pandemic challenges by adjusting project timelines and transitioning to digital platforms to ensure achievement of objectives
 
 ### Tata Consultancy Services, Mumbai, India (_May - Jun 2019_)
 
-Employed Natural Language Toolkit (NLTK) for data cleaning and assigned attributes to key factors around which NLP application would be built as an intern 
+- Employed **Natural Language Toolkit (NLTK)** for data cleaning and assigned attributes to key factors
+- Assessed efficacy of Natural Language Processing (NLP) model to translate Spanish pharmaceutical products to English 
 
 ### GetClarity Fintech Services, Mumbai, India (_May - Jun 2018_)
 
-Investigated correlation between text messages and propensity to loan default by data cleaning and conducting regression analysis on text messages of potential and current loans borrowers in Python (RCT experiment) as an intern
+- Investigated correlation between text messages and propensity to loan default by data cleaning and conducting regression analysis on text messages of potential and current loans borrowers in **Python** (RCT experiment)
 
 * * * *
 
