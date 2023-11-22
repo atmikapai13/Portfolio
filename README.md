@@ -34,7 +34,7 @@ B.A. Data Science and Economics
 - Delved deeper into competitiveness and correlations with CSAA’s market share by zip code to uncover growth opportunities
 - Assessed Auto and Property product dynamics by deriving cross elasticity of demand of Property rate change on Auto product retention
 
-### Microfinance at Berkeley (_August 2019 - May 2020_)**
+### Microfinance at Berkeley (_August 2019 - May 2020_)
 
 - Led a team of four associates to accelerate growth for two local small businesses in retail and service industry 
 - Designed an e-Commerce website prototype using **Figma** for retail business
