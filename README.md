@@ -88,12 +88,8 @@ Classified handwritten digits from M.S. dataset into number counterparts using L
 Created dashboards on transportation and climate change for climate action portal, EcoDataLab, using **Python** for data synthesis and **Tableau** for data visualizations.
 
 ###  Version-Control System [_(Link)_](https://github.com/atmikapai13/CS61BL-Data-Structures/tree/main/Proj2%20-%20Gitlet)
-Implementing a version-control system, mimicking basic features of the popular system Git, in **Java** as part of CS61B: Data Structures coursework. Features supported by my version-control system: 
-- Saving the contents of entire directories of files, similar to comitting contents/commits
-- Restoring a version of one or more files or entire commits
-- Viewing the history of your backups
-- Maintaining related sequences of commits, called branches.
-- Merging changes made in one branch into another.
+- Constructed a version-control system similar to Git in Java to streamline local repository management, backup history views, and file restoration
+- Utilized Java serialization to handle internal object comprehension and stored activity history within linked list and tree structures
 
 ### Recreating 2048 Game [_(Link)_](https://github.com/atmikapai13/CS61BL-Data-Structures/tree/main/Proj0%20-%20Recreating%202048)
 
