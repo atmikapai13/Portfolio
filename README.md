@@ -87,6 +87,19 @@ Evaluated model performance on train and test set using Seasonal Autoregression 
 - Identified no significant impact on U.S. patents; proposed data collection and inference approaches for future research
 - Independently authored research paper, deepening research proficiency and statistical inference skills in R and STATA
 
+### Empirical Investigation of Kuznets Environmental Model [_(Link)_](https://drive.google.com/file/d/118bfGKnELZRF4oGHpZtPU3rMLqZk8e_d/view)
+- Examined parabolic relationship between economic growth and environmental degradation as stipulated by Kuznet's Environmental model through linear regression analysis of log-transformed GDP and Environmental Performance Indicator (EPI) 
+- Constructed panel dataset of 161 countries spanning 2007 to 2017 in R, leveraging World Bank dataset and Yale’s EPI dataset
+- Tested for homoskedasticity, autocorrelation, and endogeneity to ensure OLS estimator was best linear unbiased estimator (BLUE) 
+- Added time/entity fixed effects and two exogenous instrument variables to mitigate omitted variable and simultaneous causality bias
+- Demonstrated through robust linear regression framework that contemporary empirical data supports Kuznet's Environmental model
+
+### Effects of Stay-At-Home Mandates on COVID-19 Cases in USA [_(Link)_](https://drive.google.com/file/d/1pfOTcsmLRGOX9XDoZlF2-hBO46r8ue7u/view?usp=sharing)
+- Bifurcated 3,143 US counties into treatment and control group based on COVID-19 government intervention stringency
+- Employed OLS and WLS regression models to estimate impacts of strict quarantine mandates on COVID-19 cases using CDC dataset
+- Assessed regression models’ performances across six intervention timeframes using RMSE and Choropleth library for map visualization
+- Identified strict mandates had -3.3ppts impact on Covid-19 cases p.c. up till four months compared to lenient government interventions 
+
 ### Convolutional Neural Network (CNN) Classifier for Image Classification  [_(Link)_](https://github.com/atmikapai13/CS189/blob/main/cs189%20hw0.py)
 - Engineered CNN model to classify diverse images from CIFAR-10 dataset using computer vision paradigm, PyTorch, and TensorFlow
 - Extracted hierarchical and spatial image features using forward pass three-layer CNN and Rectified Linear Unit activation function
@@ -99,8 +112,7 @@ Evaluated model performance on train and test set using Seasonal Autoregression 
 - Gaussian classifier achieved an accuracy of 81.7% on test set
 
 ### Cool Climate Networks [_(Link)_](https://coolclimate.berkeley.edu/)
-
-Created dashboards on transportation and climate change for climate action portal, EcoDataLab, using Python for data synthesis and Tableau for data visualizations.
+- Created dashboards on transportation and climate change for climate action portal, EcoDataLab, using Python for data synthesis and Tableau for data visualizations
 
 ### Experiment Designer for Graduate Research 
 - Selected as assistant to graduate researcher as part of UC Berkeley’s Undergraduate Student Researcher Mentoring program
