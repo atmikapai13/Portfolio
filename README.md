@@ -58,24 +58,26 @@ B.A. Data Science and Economics
 
 ### Analysis of Bay Area Rapid Transit (BART) Ridership and Distance-Based Fare Model
 
-**1. SQL Database of BART ridership and GTFS datat** [_(Link)_](https://medium.com/@atmikapai/sql-database-for-bart-ridership-and-scheduling-data-8fadb40efc51)
-
-Created novel database on BART ridership from 2001 to 2023 and General Specification Transit Feed (GTFS) scheduling data for urban data enthusiasts to be able to conduct temporal and geospatial analysis from one database
+**1. SQL Database of BART ridership and GTFS data** [_(Link)_](https://medium.com/@atmikapai/sql-database-for-bart-ridership-and-scheduling-data-8fadb40efc51)
+- Constructed Extract-Transform-Load (ETL) pipeline to query, clean, and compile BART ridership data spanning 2001 to 2003 and 18 General Transit Specification Feed (GTFS) files and load into MySQL relational database (RDS) using Pandas, NumPy, and SQL
+- Designed RDS schema through primary keys, foreign key constraints to establish relationships between the 19 tables in database
+- Implemented reusable stored procedures in RDS schema to simplify data querying for temporal and geospatial ridership analysis 
+- Deployed local database as Amazon Web Services RDS instance for automated backup and version maintenance
 
 **2. A Journey Through BART Ridership Trends**
 [_(Link)_](https://medium.com/@atmikapai/a-journey-through-bart-ridership-trends-5cfdd0819c0c)
-
-Dissected BART Ridership data from 1998 to Sep 2023, identified most popular stations pre and post-pandemic, and evaluated post-pandemic ridership recovery across counties using **Python**
+- Dissected BART Ridership data from 1998 to Sep 2023, identified most popular stations pre and post-pandemic
+- Evaluated post-pandemic ridership recovery by county using NumPy, Statsmodels
 
 **3. BART’s Distance-Based Fare Model: Price and Income Elasticity of Demand** [_(Link)_](https://medium.com/@atmikapai/understanding-barts-distance-based-fare-model-d78751ca8454)
-
 - Evaluated Price Elasticity of Demand (PED) for BART transit by exploiting natural experiment of 50% BART fare discount in Sep 2022; identified entry/exit routes with PED > 1 and formulated price reductions to engage ridership for those routes.
-
-- Deterimined Income Elasticity of Demand for BART transit across counties and established nature and perception of transit service across Bay Area counties. Analysis was conducted in **Python** .
+- Deterimined Income Elasticity of Demand for BART transit across counties and established nature and perception of transit service across Bay Area counties
+- Analysis conducted in Python
 
 **4. Forecasting BART's Ridership Trends using SARIMA and Prophet** [_(Link)_](https://medium.com/@atmikapai/forecasting-bart-ridership-sarmix-vs-prophet-8fdfae5f24bc)
-
-Evaluated model performance on train and test set using Seasonal Autoregression Integrated Moving Average (SARIMA) and Prophet regression models in **Python** and forecasted BART monthly weekday ridership till 2027   
+- Leveraged Seasonal Autoregression Integrated Moving Average (SARIMA) and Prophet time-series forecasting models to forecast BART monthly weekday ridership till 2027
+- Conducted forecasts on train and test set to evaluate model reliablity and accuracy
+- Discovered ridership will not attain pre-pandemic levels till 2027
 
 
 ### Effects of Selective Migration Policies on Student Emigration, Patenting in USA [_(Link)_](https://drive.google.com/file/d/118bfGKnELZRF4oGHpZtPU3rMLqZk8e_d/view)
