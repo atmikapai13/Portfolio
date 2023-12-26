@@ -89,7 +89,7 @@ B.A. Data Science and Economics
 - Identified no significant impact on U.S. patents; proposed data collection and inference approaches for future research
 - Independently authored research paper, deepening research proficiency and statistical inference skills in R and STATA
 
-### Empirical Investigation of Kuznets Environmental Model [_(Link)_](https://drive.google.com/file/d/118bfGKnELZRF4oGHpZtPU3rMLqZk8e_d/view)
+### Empirical Investigation of Kuznets Environmental Model [_(Link)_](https://drive.google.com/file/d/12k7q0EfXI1s30T4mtamY6AXeOHi3ErKm/view?usp=sharing)
 - Examined parabolic relationship between economic growth and environmental degradation as stipulated by Kuznet's Environmental model through linear regression analysis of log-transformed GDP and Environmental Performance Indicator (EPI) 
 - Constructed panel dataset of 161 countries spanning 2007 to 2017 in R, leveraging World Bank dataset and Yale’s EPI dataset
 - Tested for homoskedasticity, autocorrelation, and endogeneity to ensure OLS estimator was best linear unbiased estimator (BLUE) 
