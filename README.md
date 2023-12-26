@@ -143,8 +143,7 @@ Evaluated model performance on train and test set using Seasonal Autoregression 
 - Developed immersive user interface in Java to enhance look and feel of 2D game engine
 
 ### Tower Defense Game [_(Link)_](https://github.com/atmikapai13/CS61A-Intro-to-Computer-Programs/tree/main/Proj3%20-%20Ants%20Vs.%20Zombies)
-
-Created a tower defense game, named called Ants Vs. Zombies using an object-oriented programming paradigm in Java as part of CS61A: Introduction to programming and computer science coursework
+- Created a tower defense game, named called Ants Vs. Zombies using an object-oriented programming paradigm in Java 
 
 ### Scheme Interpreter [_(Link)_](https://github.com/atmikapai13/CS61A-Intro-to-Computer-Programs/tree/main/Proj3%20-%20Ants%20Vs.%20Zombies)
 - Developed interpreter for a subset of Scheme language, integrating features like mathematical operations and user-defined procedures 
