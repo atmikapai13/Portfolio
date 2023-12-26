@@ -13,25 +13,27 @@ B.A. Data Science and Economics
 ## Professional Experience
 ### CSAA Insurance, an AAA Insurer
 **Product Analyst (_July 2022 - Present_)**
-- Developed Arizona’s 3-year financial plan based on microeconomic trends, competitor activity, and historical KPI trends in **Oracle Hyperion Essbase**
-- Collaborated closely with actuaries and insurance agents to administer two pricing refreshes changes for Arizona Auto and Property
-- Optimized territory factors by zip code to improve risk segmentation using **InsurQuote competitive intelligence tool**, **SAS,** and **Snowflake**
-- Fostered insurance agents’ understanding of low-risk, high-profit segments for successful implementation of rate changes
-- Unified logic of two disparate internal data sources (traditional and online point-of-sales) to achieve consistent reporting 
-- Devised monthly reports on consumer interaction in online point-of-sales with new products launches and shared with senior PMs and external partners
-- Quantified impact of payment plan changes on new business insurance KPIs and presented findings to leadership, integrating profitability narrative and insights into riskier segment dynamics
-- Promoted in April 2023
+- Developed AZ’s 3-year financial plan based on microeconomic trends, competitor activity, and historical KPI trends in Oracle Essbase
+- Collaborated with actuaries and insurance agents to administer four premium rate changes for Auto & Property products
+- Optimized territory factors by zip code to improve risk segmentation in pricing algorithm and mitigate adverse selection
+- Unified logic for two disparate data warehouses by standardizing data querying in SQL and establishing framework to interpret results
+- Leveraged unified logic to devise Power BI reports on consumer behaviors in digital sales, shared with senior PMs and external parters
+- Migrated three monthly SAS reports to Snowflake cloud data warehouse using SQL, improving report efficiency and accessibility
+- Identified $1.6M loss in direct written premium with four branch closures and presented findings to leadership
+- Promoted from product analyst I to II in April 2023
 
 **Product Management Intern (_Jun - Aug 2021_)**
 
-- Researched prospects of electric vehicle coverage by analyzing industry trends, competitor strategies, and government regulations
-- Crafted short and long-term objectives for new EV insurance product line, aligning with company’s 2030 vision
-- Presented elaborate business proposal to leadership, underscoring strategic foresight and innovative solutions
+- Researched prospects of electric vehicle insurance by assessing industry trends, competitor strategies, and government regulations
+- Coordinated with claims analyst, actuaries, and product specialists to develop EV coverage geared towards company’s business needs
+- Crafted short and long-term objectives of EV coverage as Minimum Viable Product (MVP), emphasizing growth opportunities 
+- Presented elaborate business proposal to leadership, aligning with company’s 2030 growth and profitability vision
 
 **Product Analyst Intern Intern (_May - Jul 2020_)**
 
-- Conducted premium analysis to evaluate company's competitive position in Maryland among 53 companies and six market profiles using DOI Rate Survey and **SAS** tools
-- Delved deeper into competitiveness and correlations with CSAA’s market share by zip code to uncover growth opportunities
+- Conducted premium analysis to formulate CSAA’s competitive position against six market profiles and 53 companies in Maryland
+- Investigated correlations between competitiveness and market share by zip code to uncover growth opportunities
+- Presented competitive intelligence analysis to leadership to improve risk segmentation for future rate changes
 - Assessed Auto and Property product dynamics by deriving cross elasticity of demand of Property rate change on Auto product retention
 
 ### Microfinance at Berkeley (_August 2019 - May 2020_)
@@ -43,67 +45,99 @@ B.A. Data Science and Economics
 
 ### Tata Consultancy Services, Mumbai, India (_May - Jun 2019_)
 
-- Employed **Natural Language Toolkit (NLTK)** for data cleaning and assigned attributes to key factors
-- Assessed efficacy of Natural Language Processing (NLP) model to translate Spanish pharmaceutical products to English 
+- Employed Natural Language Toolkit (NLTK) models and functions for data cleaning and assigned attributes to semantic variables
+- Assessed efficacy of Natural Language Processing (NLP) model in translating Spanish pharmaceutical descriptions to English 
 
 ### GetClarity Fintech Services, Mumbai, India (_May - Jun 2018_)
 
-- Investigated correlation between text messages and propensity to loan default by data cleaning and conducting regression analysis on text messages of potential and current loans borrowers in **Python** (RCT experiment)
+- Investigated correlation between text messages and propensity to loan default by data cleaning and conducting regression analysis on text messages of potential and current loans borrowers in Python using Randomized Control Trial analysis framework 
 
 * * * *
 
-## Projects
+## Data Management and Analytics Projects
 
 ### Analysis of Bay Area Rapid Transit (BART) Ridership and Distance-Based Fare Model
 
-**1. A Journey Through BART Ridership Trends**
+**1. SQL Database of BART ridership and GTFS datat** [_(Link)_](https://medium.com/@atmikapai/sql-database-for-bart-ridership-and-scheduling-data-8fadb40efc51)
+
+Created novel database on BART ridership from 2001 to 2023 and General Specification Transit Feed (GTFS) scheduling data for urban data enthusiasts to be able to conduct temporal and geospatial analysis from one database
+
+**2. A Journey Through BART Ridership Trends**
 [_(Link)_](https://medium.com/@atmikapai/a-journey-through-bart-ridership-trends-5cfdd0819c0c)
 
 Dissected BART Ridership data from 1998 to Sep 2023, identified most popular stations pre and post-pandemic, and evaluated post-pandemic ridership recovery across counties using **Python**
 
-**2. BART’s Distance-Based Fare Model: Price and Income Elasticity of Demand** [_(Link)_](https://medium.com/@atmikapai/understanding-barts-distance-based-fare-model-d78751ca8454)
+**3. BART’s Distance-Based Fare Model: Price and Income Elasticity of Demand** [_(Link)_](https://medium.com/@atmikapai/understanding-barts-distance-based-fare-model-d78751ca8454)
 
-Evaluated Price Elasticity of Demand (PED) for BART transit by exploiting natural experiment of 50% BART fare discount in Sep 2022; identified entry/exit routes with PED > 1 and formulated price reductions to engage ridership for those routes.
+- Evaluated Price Elasticity of Demand (PED) for BART transit by exploiting natural experiment of 50% BART fare discount in Sep 2022; identified entry/exit routes with PED > 1 and formulated price reductions to engage ridership for those routes.
 
-Deterimined Income Elasticity of Demand for BART transit across counties and established nature and perception of transit service across Bay Area counties. Analysis was conducted in **Python** .
+- Deterimined Income Elasticity of Demand for BART transit across counties and established nature and perception of transit service across Bay Area counties. Analysis was conducted in **Python** .
 
-**3. Forecasting BART's Ridership Trends using SARIMA and Prophet** [_(Link)_](https://medium.com/@atmikapai/forecasting-bart-ridership-sarmix-vs-prophet-8fdfae5f24bc)
+**4. Forecasting BART's Ridership Trends using SARIMA and Prophet** [_(Link)_](https://medium.com/@atmikapai/forecasting-bart-ridership-sarmix-vs-prophet-8fdfae5f24bc)
 
 Evaluated model performance on train and test set using Seasonal Autoregression Integrated Moving Average (SARIMA) and Prophet regression models in **Python** and forecasted BART monthly weekday ridership till 2027   
 
-**4. SQL Database of BART ridership and GTFS datat** [_(Link)_](https://medium.com/@atmikapai/sql-database-for-bart-ridership-and-scheduling-data-8fadb40efc51)
 
-Created novel database on BART ridership from 2001 to 2023 and General Specification Transit Feed (GTFS) scheduling data for urban data enthusiasts to be able to conduct temporal and geospatial analysis from one database
+### Effects of Selective Migration Policies on Student Emigration, Patenting in USA [_(Link)_](https://drive.google.com/file/d/118bfGKnELZRF4oGHpZtPU3rMLqZk8e_d/view)
 
-### Impact of OPT-STEM Migration [_(Link)_](https://drive.google.com/file/d/118bfGKnELZRF4oGHpZtPU3rMLqZk8e_d/view)
+- Researched history of visa programs (F-1, OPT-STEM, H1-B) to identify intervention period, treatment, and control groups
+- Compiled dataset of student enrollment, graduates by major, and patents by patentor origin from accredited data repositories in R
+- Leveraged Difference-in-Difference regression model with three intervention periods to capture impacts over time using STATA
+- Discovered selective migration policies increased foreign student migration by 2.8 million, statistically significant at 1% 
+- Identified no significant impact on U.S. patents; proposed data collection and inference approaches for future research
+- Independently authored research paper, deepening research proficiency and statistical inference skills in R and STATA
 
-Independently researched and authored paper on the impacts of selective migration policy on student migration and patenting in the US by employing difference-in-difference methodology using **STATA** and **R**.
+### Convolutional Neural Network (CNN) Classifier for Image Classification  [_(Link)_](https://github.com/atmikapai13/CS189/blob/main/cs189%20hw0.py)
+- Engineered CNN model to classify diverse images from CIFAR-10 dataset using computer vision paradigm, PyTorch, and TensorFlow
+- Extracted hierarchical and spatial image features using forward pass three-layer CNN and Rectified Linear Unit activation function
+- Fine-tuned model hyper-parameters to optimize deep learning model, achieving 59.5% accuracy on test set
 
 ### Gaussian Classifier for Handwritten Digit Recognition  [_(Link)_](https://github.com/atmikapai13/CS189/blob/main/cs189%20hw0.py)
-
-Classified handwritten digits from M.S. dataset into number counterparts using Linear Discriminant in **Python** and achieved an accuracy of 81.7%
+- Constructed classifier to categorize handwritten digits from MNIST dataset into numeric counterparts using Scipy and Scikit modules
+- Leveraged Linear Discriminant Analysis for dimensionality reduction of pixel data to improve computational efficiency
+- Modeled pixel value probabilities for different digit classes based on maximum likelihood estimation using Gaussian distributions
+- Gaussian classifier achieved an accuracy of 81.7% on test set
 
 ### Cool Climate Networks [_(Link)_](https://coolclimate.berkeley.edu/)
 
-Created dashboards on transportation and climate change for climate action portal, EcoDataLab, using **Python** for data synthesis and **Tableau** for data visualizations.
+Created dashboards on transportation and climate change for climate action portal, EcoDataLab, using Python for data synthesis and Tableau for data visualizations.
 
-###  Version-Control System [_(Link)_](https://github.com/atmikapai13/CS61BL-Data-Structures/tree/main/Proj2%20-%20Gitlet)
-- Constructed a version-control system similar to Git in Java to streamline local repository management, backup history views, and file restoration
-- Utilized Java serialization to handle internal object comprehension and stored activity history within linked list and tree structures
+### Experiment Designer for Graduate Research 
+- Selected as assistant to graduate researcher as part of UC Berkeley’s Undergraduate Student Researcher Mentoring program
+- Tasked with designing survey experiment in English and Hindi to investigate belief adaption amid social media misinformation
+- Crafted neutral questions to capture participants’ shifts in belief when responding to newspaper and Whatsapp chain messages in survey 
+- Deployed survey experiment among friends and family in India to boost experiment participation and capture diverse perspectives
+
+### Database Creation of Hawaiian Species’ Interactions 
+- Selected as data migration assistant for UC Berkeley’s Essig Museum of Entomology
+- Digitized Elwood Curtin Zimmerman’s 7 multivolume series on Hawaiian insect taxonomy in Microsoft Access
+- Collaborated with four assistants to achieve project’s data management objectives ahead of schedule
+
+* * * *
+
+## Software Projects
+
+###  Version Control System for Local File Management [_(Link)_](https://github.com/atmikapai13/CS61BL-Data-Structures/tree/main/Proj2%20-%20Gitlet)
+- Constructed a version control system in Java to streamline local repository management, backup history views, and file restoration
+- Utilized Java serialization to handle file object comprehension, and stored activity history within linked list and tree structures
+- Conducted test cases for commit, branching, and merging functionalities, thereby ensuring integrity within version history
 
 ### Recreating 2048 Game [_(Link)_](https://github.com/atmikapai13/CS61BL-Data-Structures/tree/main/Proj0%20-%20Recreating%202048)
+- Recreated 2048 game, a single-player computer game originally designed by Gabriele Cirulli in Java as part of CS61B: Data Structures coursework
 
-Recreated 2048 game, a single-player computer game originally designed by Gabriele Cirulli in **Java** as part of CS61B: Data Structures coursework
-
-### 2D Game Engine [_(Link)_](https://github.com/atmikapai13/CS61BL-Data-Structures/tree/main/Proj3%20-%20BYOW)
-
-Game engine that generates explorable 2D tile-based worlds in **Java** as part of CS61B: Data Structures coursework
+### 2D Tile-Based World Generation and Exploration Game [_(Link)_](https://github.com/atmikapai13/CS61BL-Data-Structures/tree/main/Proj3%20-%20BYOW)
+- Created a 2D tile-based game in Java in which user can explore and interact with objects in pseudorandomly simulated world
+- Established classes, objects, and methods to define entities and user behaviors, leveraging object-oriented programming paradigm
+- Developed immersive user interface in Java to enhance look and feel of 2D game engine
 
 ### Tower Defense Game [_(Link)_](https://github.com/atmikapai13/CS61A-Intro-to-Computer-Programs/tree/main/Proj3%20-%20Ants%20Vs.%20Zombies)
 
-Created a tower defense game, named called Ants Vs. Zombies using an object-oriented programming paradigm in **Java** as part of CS61A: Introduction to programming and computer science coursework
+Created a tower defense game, named called Ants Vs. Zombies using an object-oriented programming paradigm in Java as part of CS61A: Introduction to programming and computer science coursework
 
-
+### Scheme Interpreter [_(Link)_](https://github.com/atmikapai13/CS61A-Intro-to-Computer-Programs/tree/main/Proj3%20-%20Ants%20Vs.%20Zombies)
+- Developed interpreter for a subset of Scheme language, integrating features like mathematical operations and user-defined procedures 
+- Engineered interpreter’s evaluation mechanism to tokenize and parse Scheme code into abstract syntax tree (AST)
+- Implemented tail call optimization to enhance performance and prevent stack overflow in recursive functions
 
 
 
