@@ -56,6 +56,8 @@ B.A. Data Science and Economics
 
 ## Data Management and Analytics Projects
 
+## Current Projects
+
 ### Analysis of Bay Area Rapid Transit (BART) Ridership and Distance-Based Fare Model
 
 **1. SQL Database of BART ridership and GTFS data** [_(Link)_](https://medium.com/@atmikapai/sql-database-for-bart-ridership-and-scheduling-data-8fadb40efc51)
@@ -79,6 +81,7 @@ B.A. Data Science and Economics
 - Conducted forecasts on train and test set to evaluate model reliablity and accuracy
 - Discovered ridership will not attain pre-pandemic levels till 2027
 
+## Past Projects
 
 ### Effects of Selective Migration Policies on Student Emigration, Patenting in USA [_(Link)_](https://drive.google.com/file/d/118bfGKnELZRF4oGHpZtPU3rMLqZk8e_d/view)
 
