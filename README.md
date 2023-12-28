@@ -20,36 +20,31 @@ B.A. Data Science and Economics
 - Leveraged unified logic to devise Power BI reports on consumer behaviors in digital sales, shared with senior PMs and external parters
 - Migrated three monthly SAS reports to Snowflake cloud data warehouse using SQL, improving report efficiency and accessibility
 - Identified $1.6M loss in direct written premium with four branch closures and presented findings to leadership
-- Promoted from product analyst I to II in April 2023
+- Promoted from Product Analyst I to II in April 2023
 
 **Product Management Intern (_Jun - Aug 2021_)**
-
 - Researched prospects of electric vehicle insurance by assessing industry trends, competitor strategies, and government regulations
 - Coordinated with claims analyst, actuaries, and product specialists to develop EV coverage geared towards company’s business needs
 - Crafted short and long-term objectives of EV coverage as Minimum Viable Product (MVP), emphasizing growth opportunities 
 - Presented elaborate business proposal to leadership, aligning with company’s 2030 growth and profitability vision
 
 **Product Analyst Intern Intern (_May - Jul 2020_)**
-
 - Conducted premium analysis to formulate CSAA’s competitive position against six market profiles and 53 companies in Maryland
 - Investigated correlations between competitiveness and market share by zip code to uncover growth opportunities
 - Presented competitive intelligence analysis to leadership to improve risk segmentation for future rate changes
 - Assessed Auto and Property product dynamics by deriving cross elasticity of demand of Property rate change on Auto product retention
 
 ### Microfinance at Berkeley (_August 2019 - May 2020_)
-
 - Led a team of four associates to accelerate growth for two local small businesses in retail and service industry 
 - Designed an e-Commerce website prototype using **Figma** for retail business
 - Developed detailed financial and marketing strategy to transform cafe’s patio space into an event venue 
 - Navigated pandemic challenges by adjusting project timelines and transitioning to digital platforms to ensure achievement of objectives
 
 ### Tata Consultancy Services, Mumbai, India (_May - Jun 2019_)
-
 - Employed Natural Language Toolkit (NLTK) models and functions for data cleaning and assigned attributes to semantic variables
 - Assessed efficacy of Natural Language Processing (NLP) model in translating Spanish pharmaceutical descriptions to English 
 
 ### GetClarity Fintech Services, Mumbai, India (_May - Jun 2018_)
-
 - Investigated correlation between text messages and propensity to loan default by data cleaning and conducting regression analysis on text messages of potential and current loans borrowers in Python using Randomized Control Trial analysis framework 
 
 * * * *
