@@ -42,7 +42,7 @@ B.A. Data Science and Economics
 
 ### Microfinance at Berkeley (_August 2019 - May 2020_)
 - Led a team of four associates to accelerate growth for two local small businesses in retail and service industry 
-- Designed an e-Commerce website prototype using **Figma** for retail business
+- Designed an e-Commerce website prototype using Figma for retail business
 - Developed detailed financial and marketing strategy to transform cafe’s patio space into an event venue 
 - Navigated pandemic challenges by adjusting project timelines and transitioning to digital platforms to ensure achievement of objectives
 
