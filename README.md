@@ -3,6 +3,10 @@
 * * * *
 
 ## Education
+**Cornell University (_August 2024_)**
+
+
+Incoming MS in Information Systems with a concentration in Urban Tech student
 **University of California, Berkeley (_May 2022_)**
 
 
